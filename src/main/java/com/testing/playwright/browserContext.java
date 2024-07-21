@@ -1,4 +1,4 @@
-package com.testing.plawright;
+package com.testing.playwright;
 
 public class browserContext {
 
